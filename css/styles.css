@@ -148,3 +148,27 @@
    color: var(--second-text-color,grey);
 }
 /* ===== /MAIN-STUDIO ===== */
+
+/* ===== FOOTER ===== */
+.footer {
+   background-color: var(--page-background-color, black); 
+}
+
+.logo-footer {
+   font-family: 'Raleway';
+   font-size: 26px;
+   line-height: 1.19;
+   color: var(--light-text-color, white);
+}
+
+.link-address-footer {
+   font-style: normal;
+   line-height: 1.71;
+   color: var(--light-text-color, white);
+}
+.link-contact-footer {
+   font-style: normal;
+   line-height: 1.71;
+   color: var(--footer-contacts-color, grey);
+}
+/* ===== /FOOTER ===== */
